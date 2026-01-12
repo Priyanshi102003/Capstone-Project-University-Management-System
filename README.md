@@ -21,13 +21,13 @@ Implement the normalized database using MySQL
 
 ==== Project Files =====
 
-UNF.sql – Unnormalized database script
+UNF – Unnormalized database script
 
-1NF.sql – First Normal Form script
+1NF – First Normal Form script
 
-2NF.sql – Second Normal Form script
+2NF – Second Normal Form script
 
-3NF.sql – Third Normal Form script
+3NF – Third Normal Form script
 
 INDEXING AND QUERY OPTIMIZATION
 
