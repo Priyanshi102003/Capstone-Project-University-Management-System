@@ -1,5 +1,6 @@
 # Capstone-Project-University-Management-System
 University Management System
+
 ==== Overview =====
 
 This project demonstrates the design, normalization, and optimization of a University Management System database. The database is systematically converted from Unnormalized Form (UNF) to First, Second, and Third Normal Forms (1NF, 2NF, 3NF) to minimize redundancy and ensure data integrity. The final database is implemented using MySQL following standard relational design principles.
