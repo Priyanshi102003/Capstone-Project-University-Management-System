@@ -17,7 +17,7 @@ Implement the normalized database using MySQL
 
  ==== Technologies Used =======
 
- = MySQL
+ ** MySQL**
 
 
 ==== Project Files =====
