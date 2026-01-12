@@ -270,8 +270,6 @@ JOIN enrollment e ON s.student_id = e.student_id
 JOIN course c ON e.course_code = c.course_code
 WHERE s.student_id = 101;
 
--- Indexing : For FAST data retrival
-create database 
 
 
 
