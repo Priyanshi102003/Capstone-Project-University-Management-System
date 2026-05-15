@@ -169,4 +169,7 @@ This project is licensed for educational and academic use.
 
 ## Author
 
- Priyanshi
+**Priyanshi**
+
+* GitHub: [https://github.com/your-username](https://github.com/Priyanshi102003)
+* LinkedIn: [https://www.linkedin.com/in/priyanshi-530b4a350)
