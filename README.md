@@ -167,6 +167,6 @@ This project was developed as part of a database management and system design le
 
 This project is licensed for educational and academic use.
 
-## Author**
+## Author
 
- Priyanshi**
+ Priyanshi
